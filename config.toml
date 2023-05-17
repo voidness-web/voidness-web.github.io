@@ -1,0 +1,8 @@
+baseURL = 'https://blog.voidness.net'
+languageCode = 'en-us'
+title = 'Voidness'
+
+theme = 'mini'
+
+[params]
+    copyright = '© Voidness'
