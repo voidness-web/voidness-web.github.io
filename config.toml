@@ -7,4 +7,3 @@ theme = 'mini'
 [params]
     copyright = '© Voidness'
     enableGoogleAnalytics = true
-    googleAnalytics = 'G-KC31G1VSCP'
